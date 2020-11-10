@@ -1,0 +1,63 @@
+@media screen and (max-width: 1198px) {
+    .forma__checkbox {
+        margin-right: 280px;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .forma__checkbox {
+        margin-right: 140px;
+    }
+}
+
+@media screen and (max-width: 574px) {
+    .form-container {
+        width: 95%;
+    }
+}
+
+@media screen and (max-width: 560px) {
+    .form-container {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    .forma__checkbox {
+        margin-right: 80px;
+    }
+
+    .form__btn {
+        width: 30%;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    .forma__checkbox {
+        margin-right: 50px;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    .forma__checkbox {
+        margin-right: 0;
+    }
+
+    .main-title {
+        font-size: 2rem;
+    }
+
+    .second-title {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .scroll-btn {
+        width: 100%;
+    }
+
+    .scroll-btn a {
+        padding: 12px 25px;
+    }
+}
